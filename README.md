@@ -5,12 +5,7 @@
 Hi! I’m Shreya, a final-year Information Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. 
 ---
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Shreya!+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+AI+Enthusiast+%7C+Tech+Explorer;Final-year+Information+Science+%26+Engineering+student;Building+intelligent+systems+to+solve+real-world+problems;Currently+working+on+CardioTwin+%F0%9F%92%97;Learning+Docker%2C+Apache+Kafka%2C+Android+with+Kotlin;I+love+sakura+flowers+%F0%9F%8C%B8+and+teaching+kids+%F0%9F%92%9B"
-    alt="Typing SVG About Me Animation"
-  />
-</p>
+Hey there, I'm Shreya! 👋 Aspiring Software Engineer | AI Enthusiast | Tech Explorer Hi! I’m Shreya, a final-year Information Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. 🚀 About Me 🎓 Final-year Information Science & Engineering student 💡 Interests: AI, Machine Learning, App development and Digital Twins 🛠️ Currently working on: CardioTwin – A digital twin for cardiovascular health monitoring 🌱 Learning: Docker, Apache Kafka, and Android development with Kotlin ✨ Fun fact: I love sakura flowers 🌸 and teaching underprivileged kids 💛
 
 
 ---
@@ -34,4 +29,10 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
     src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Shreya%20Ramesh&fontSize=55&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20Android%20%7C%20Digital%20Twins&descAlign=50&descAlignY=60&animation=fadeIn"
     alt="Wavy Tech Banner"
   />
+</p>
+
+<h2 align="center">🌸 About Me 🌸</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&multiline=true&width=700&lines=🎓+Final-year+Information+Science+%26+Engineering+student;💡+AI%2C+Machine+Learning%2C+Digital+Twins;💗+Working+on+CardioTwin+-+Heart+Health+Digital+Twin;🌱+Learning+Docker%2C+Apache+Kafka%2C+Android+with+Kotlin;🌸+Love+Sakura+flowers+%26+teaching+kids" alt="About Me Animation" />
 </p>
