@@ -2,16 +2,14 @@
 
 **`Aspiring Software Engineer | AI Enthusiast | Tech Explorer`**
 
-Hi! I’m Shreya, a final-year Computer Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. Whether it’s **machine learning, full-stack development, IoT, or cloud computing**, I love exploring and learning.
-
+Hi! I’m Shreya, a final-year Information Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. 
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year Computer Science & Engineering student
-- 💡 Interests: AI, Machine Learning, Cloud, IoT, and Digital Twins
+- 🎓 Final-year Information Science & Engineering student
+- 💡 Interests: AI, Machine Learning, App development and Digital Twins
 - 🛠️ Currently working on:  
   - **CardioTwin** – A digital twin for cardiovascular health monitoring  
-  - **Fem Flare** – PCOS detection using a hybrid CNN + ANN model  
 - 🌱 Learning: Docker, Apache Kafka, and Android development with Kotlin
 - ✨ Fun fact: I love **sakura flowers** 🌸 and teaching underprivileged kids 💛
 
@@ -34,10 +32,10 @@ Hi! I’m Shreya, a final-year Computer Science student passionate about buildin
 ---
 
 ## 📌 Featured Projects
-- **[CardioTwin](#)** – Real-time cardiovascular health monitoring with AI-powered predictions  
 - **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN)  
 - **[Sign Language to Text Converter](#)** – Bridging the gap for communication  
-- **[Auto Share App](#)** – Android app to connect students for shared auto rides  
+- **[Auto Share App](#)** – Android app to connect students for shared auto rides
+- **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN) 
 
 ---
 
@@ -49,8 +47,8 @@ Hi! I’m Shreya, a final-year Computer Science student passionate about buildin
 ---
 
 ## 📊 GitHub Stats
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya-196&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-196&layout=compact&theme=tokyonight)
 
 ---
 
