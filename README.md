@@ -15,33 +15,10 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:**  
-`Python` `Java` `C/C++` `Kotlin` `JavaScript` `SQL`
-
-**Frameworks & Tools:**  
-`React.js` `Node.js` `Express.js` `Flask` `Spring Boot` `Android Studio`
-
-**Databases & Cloud:**  
-`Firebase` `MySQL` `PostgreSQL` `MongoDB`  
-`AWS` `Azure` `Google Cloud`
-
-**Other Skills:**  
-`Machine Learning` `Deep Learning` `Data Visualization` `API Development`
-
----
-
 ## 📌 Featured Projects
 - **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN)  
 - **[Auto Share App](#)** – Android app to connect students for shared auto rides
 - **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN) 
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
