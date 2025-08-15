@@ -33,7 +33,6 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
 
 ## 📌 Featured Projects
 - **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN)  
-- **[Sign Language to Text Converter](#)** – Bridging the gap for communication  
 - **[Auto Share App](#)** – Android app to connect students for shared auto rides
 - **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN) 
 
@@ -43,12 +42,6 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-
----
-
-## 📊 GitHub Stats
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya-196&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-196&layout=compact&theme=tokyonight)
 
 ---
 
