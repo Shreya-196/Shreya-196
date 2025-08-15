@@ -1,25 +1,8 @@
 # 🌸 Hey there, I'm Shreya! 👋
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&height=45&duration=3000&lines=Aspiring+Software+Engineer+%7C+AI+Enthusiast;Digital+Twins+%F0%9F%8C%8C+%7C+Android+with+Kotlin;I+build+human-centered+intelligent+systems;Sakura+lover+%F0%9F%8C%B8+%7C+Community+Volunteer"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi!+I’m+Shreya%2C+a+final-year+Information+Science+student+passionate+about+building+intelligent+systems%2C+solving+real-world+problems%2C+and+creating+projects+that+blend+creativity+with+technology." alt="Intro Animation" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&lines=Hi!+I’m+Shreya!;A+final-year+Information+Science+student;Passionate+about+building+intelligent+systems;Solving+real-world+problems;Creating+projects+that+blend+creativity+with+technology" alt="About Me Animation" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi!+I’m+Shreya!;A+final-year+Information+Science+student;Passionate+about+building+intelligent+systems;Solving+real-world+problems;Creating+projects+that+blend+creativity+with+technology" alt="About Me Animation" />
 </p>
-
-
-
-Hi! I’m Shreya, a final-year Information Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. 
 ---
 
 
