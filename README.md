@@ -5,13 +5,13 @@
 Hi! I’m Shreya, a final-year Information Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year Information Science & Engineering student
-- 💡 Interests: AI, Machine Learning, App development and Digital Twins
-- 🛠️ Currently working on:  
-  - **CardioTwin** – A digital twin for cardiovascular health monitoring  
-- 🌱 Learning: Docker, Apache Kafka, and Android development with Kotlin
-- ✨ Fun fact: I love **sakura flowers** 🌸 and teaching underprivileged kids 💛
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Shreya!+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+AI+Enthusiast+%7C+Tech+Explorer;Final-year+Information+Science+%26+Engineering+student;Building+intelligent+systems+to+solve+real-world+problems;Currently+working+on+CardioTwin+%F0%9F%92%97;Learning+Docker%2C+Apache+Kafka%2C+Android+with+Kotlin;I+love+sakura+flowers+%F0%9F%8C%B8+and+teaching+kids+%F0%9F%92%9B"
+    alt="Typing SVG About Me Animation"
+  />
+</p>
+
 
 ---
 
