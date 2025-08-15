@@ -7,6 +7,11 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi!+I’m+Shreya%2C+a+final-year+Information+Science+student+passionate+about+building+intelligent+systems%2C+solving+real-world+problems%2C+and+creating+projects+that+blend+creativity+with+technology." alt="Intro Animation" />
+</p>
+
+
 
 Hi! I’m Shreya, a final-year Information Science student passionate about building intelligent systems, solving real-world problems, and creating projects that blend creativity with technology. 
 ---
