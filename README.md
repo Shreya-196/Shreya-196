@@ -15,10 +15,8 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
 
 ---
 
-## 📌 Featured Projects
-- **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN)  
-- **[Auto Share App](#)** – Android app to connect students for shared auto rides
-- **[Fem Flare](#)** – Hybrid AI model for PCOS detection (CNN + ANN) 
+### 🔝 Top Contributed Projects 
+![](https://github-contributor-stats.vercel.app/api?username=Shreya-196&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
