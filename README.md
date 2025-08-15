@@ -23,3 +23,11 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
 ---
 
 ⭐ *"Code is like poetry — precise, creative, and impactful."*  
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&height=45&duration=3000&lines=Aspiring+Software+Engineer+%7C+AI+Enthusiast;Digital+Twins+%F0%9F%8C%8C+%7C+Android+with+Kotlin;I+build+human-centered+intelligent+systems;Sakura+lover+%F0%9F%8C%B8+%7C+Community+Volunteer"
+    alt="Typing SVG"
+  />
+</p>
+
