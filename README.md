@@ -31,3 +31,9 @@ Hi! I’m Shreya, a final-year Information Science student passionate about buil
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Shreya%20Ramesh&fontSize=55&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20Android%20%7C%20Digital%20Twins&descAlign=50&descAlignY=60&animation=fadeIn"
+    alt="Wavy Tech Banner"
+  />
+</p>
