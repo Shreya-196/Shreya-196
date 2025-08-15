@@ -33,19 +33,9 @@ Hey there, I'm Shreya! 👋 Aspiring Software Engineer | AI Enthusiast | Tech Ex
 
 <h2 align="center">🌸 About Me 🌸</h2>
 
-<div align="center">
-  <ul style="list-style:none; padding:0; font-size:18px; font-family:monospace;">
-    <li style="animation: fadeInUp 1s ease-in-out forwards;">🎓 Final-year Information Science & Engineering student</li>
-    <li style="animation: fadeInUp 1s ease-in-out forwards; animation-delay: 0.5s;">💡 AI, Machine Learning, Digital Twins</li>
-    <li style="animation: fadeInUp 1s ease-in-out forwards; animation-delay: 1s;">💗 Working on CardioTwin - Heart Health Digital Twin</li>
-    <li style="animation: fadeInUp 1s ease-in-out forwards; animation-delay: 1.5s;">🌱 Learning Docker, Apache Kafka, Android with Kotlin</li>
-    <li style="animation: fadeInUp 1s ease-in-out forwards; animation-delay: 2s;">🌸 Love Sakura flowers & teaching kids</li>
-  </ul>
-</div>
-
-<style>
-@keyframes fadeInUp {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-</style>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&multiline=true&repeat=false&width=700&lines=🎓+Final-year+Information+Science+%26+Engineering+student;💡+AI%2C+Machine+Learning%2C+Digital+Twins;💗+Working+on+CardioTwin+-+Heart+Health+Digital+Twin;🌱+Learning+Docker%2C+Apache+Kafka%2C+Android+with+Kotlin;🌸+Love+Sakura+flowers+%26+teaching+kids"
+    alt="About Me Animation"
+  />
+</p>
