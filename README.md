@@ -14,6 +14,8 @@
   
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shreya-196&theme=radical&no-frame=true&margin-w=15&column=7)
 
+  <img src="https://raw.githubusercontent.com/Shreya-196/Shreya-196/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Contribution Graph" />
+
 </div>
 
 <div align="center">
