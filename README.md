@@ -10,9 +10,11 @@
 
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-196&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
 
-   <p align="center">
-  <img src="https://skyline.github.com/Shreya-196/github-skyline.png" alt="GitHub Skyline" />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-196&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+
 
 </div>
 
