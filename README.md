@@ -10,6 +10,8 @@
 
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-196&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
 
+   ![snake gif](https://github.com/Shreya-196/Shreya-196/blob/output/github-snake-dark.svg)
+
 </div>
 
 ## 🛠️ **Tech Stack**
