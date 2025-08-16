@@ -1,6 +1,7 @@
+# **Hello I Am Shreya** 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3AB0FF&center=false&vCenter=false&width=1000&lines=Hi!+I’m+Shreya!;A+final-year+Information+Science+student;I+am+Passionate+about+building+intelligent+systems;Solving+real-world+problems;Creating+projects+that+blend+creativity+with+technology" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3AB0FF&center=false&vCenter=false&width=1000&lines=A+final-year+Information+Science+student;I+am+Passionate+about+building+intelligent+systems;Solving+real-world+problems;Creating+projects+that+blend+creativity+with+technology" alt="About Me Animation" />
 </p>
 
 <div align="center">
