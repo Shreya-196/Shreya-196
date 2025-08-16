@@ -6,35 +6,11 @@
 <div align="center">
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Shreya-196&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-  ![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-196&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-196&layout=compact&theme=radical&hide_border=true)
 
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-196&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
-  
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shreya-196&theme=radical&no-frame=true&margin-w=15&column=7)
-
-  <img src="https://raw.githubusercontent.com/Shreya-196/Shreya-196/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Contribution Graph" />
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreya-196/Shreya-196/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreya-196/Shreya-196/output/pacman-contribution-graph.svg">
-  <img alt="Pacman eating your contributions" src="https://raw.githubusercontent.com/Shreya-196/Shreya-196/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  
-  ![Snake Animation](https://github.com/Shreya-196/Shreya-196/blob/output/github-contribution-grid-snake.svg)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Shreya-196&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-  
-  ![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-196&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-196&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 
 ## 🛠️ **Tech Stack**
 
@@ -63,9 +39,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shreya-196&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ⭐ *"Code is like poetry — precise, creative, and impactful."*  
