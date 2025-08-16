@@ -9,10 +9,10 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-196&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
+<div align="center">
 
    ![snake gif](https://github.com/Shreya-196/Shreya-196/blob/output/github-snake-dark.svg)
-
+</div>
 ## 🛠️ **Tech Stack**
 
 ### **Programming Languages**
