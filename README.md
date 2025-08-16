@@ -26,3 +26,34 @@
 ---
 
 ⭐ *"Code is like poetry — precise, creative, and impactful."*  
+
+
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3649/cool-doge.gif?1643514389" width="30px"/> 
+  Hello World! I'm Shreya 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3649/cool-doge.gif?1643514389" width="30px"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3AB0FF&center=true&vCenter=true&width=1000&lines=Final-year+Information+Science+Student;AI+%7C+ML+%7C+Digital+Twins+%7C+App+Dev;Building+Intelligent+Systems+for+Real-World+Impact" alt="Typing Animation" />
+</p>
+
+---
+
+## 🔥 **About Me**
+
+```python
+class WhoAmI:
+    def __init__(self):
+        self.name = "Shreya"
+        self.education = "B.E. in Information Science & Engineering"
+        self.year = "Final Year"
+        self.passions = [
+            "Artificial Intelligence", 
+            "Machine Learning", 
+            "Digital Twins",
+            "Android Development"
+        ]
+        self.current_project = "CardioTwin (Digital Twin for Cardiovascular Health)"
+        self.learning = ["Docker", "Apache Kafka", "Kotlin"]
+        self.fun_fact = "Teaches underprivileged kids & loves sakura flowers 🌸"
