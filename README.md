@@ -10,6 +10,7 @@
 
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-196&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
 
+![Yearly](https://github-contributions.vercel.app/api?username=Shreya-196&template=yearly)
 </div>
 
 ## 🛠️ **Tech Stack**
