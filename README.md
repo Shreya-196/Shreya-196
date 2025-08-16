@@ -14,8 +14,8 @@
 
    ![snake gif](https://github.com/Shreya-196/Shreya-196/blob/output/github-snake-dark.svg)
 </div>
-## 🛠️ **Tech Stack**
 ---
+## 🛠️ **Tech Stack**
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
