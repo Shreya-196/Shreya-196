@@ -44,4 +44,6 @@
 ---
 
 ⭐ *Coding is the art of turning imagination into reality, one line at a time.*  
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://shreya-ramesh.lovable.app/)
